@@ -4,33 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7d115f9-d261-46fb-986f-8943eeaef26e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EjerciciosPythonPracticar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainAdivinanzas.py" afterDir="false" />
+    <list default="true" id="22d98a9e-c057-4186-913b-a37b11d389ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AprendeConAlf/EjerAlf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EjerciciosPythonPracticar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EjerciciosPythonPracticar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAdivinanzas.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="2u6kqR2zZ65dwvy3qe5JtiRZb6w" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RubenLopezB-Ast&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubenLopezB-Ast/EjerciciosPythonPracticar.git&quot;,
+    &quot;accountId&quot;: &quot;226cfabe-ecc2-41d5-98f3-57e25484b7f9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2u8VcVbLFnzfMUCsuB6ORDXxe6u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.MainAdivinanzas.executor": "Run",
+    "Python.EjerAlf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -54,11 +58,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7d115f9-d261-46fb-986f-8943eeaef26e" name="Changes" comment="" />
-      <created>1741576602116</created>
+      <changelist id="22d98a9e-c057-4186-913b-a37b11d389ce" name="Changes" comment="" />
+      <created>1741630267835</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741576602116</updated>
+      <updated>1741630267835</updated>
     </task>
     <servers />
   </component>
